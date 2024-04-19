@@ -12,7 +12,7 @@
     "dev": "nodemon --exec \"vite-node src/index.ts\" --ext ts --quiet --watch ../../packages/hono-api-reference --watch ./"
   },
   "dependencies": {
-    "@hono/node-server": "^1.2.0",
+    "@hono/node-server": "^1.10.1",
     "@hono/zod-openapi": "^0.8.3",
     "hono": "^3.11.7"
   },
